@@ -1,0 +1,186 @@
+---
+title: "Collaborative Research Agreement"
+author: "Drafted by Vivek and Alie"
+date: "2021-05-07"
+output: 
+  html_document:
+    toc: true
+    toc_float: 
+      collapsed: false
+    number_sections: true
+    theme: flatly
+    highlight: haddock
+    toc_depth: 4
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 35px;
+}
+h1 { /* Header 1 */
+  font-size: 25px;
+}
+h2 { /* Header 2 */
+    font-size: 20px;
+}
+h3 { /* Header 3 */
+  font-size: 16px;
+}
+
+</style>
+
+This Colaborative Research Agreement (CRA) is meant to be an optional, internal, semi-formal agreement that can provide guidance, structure, and accountability to the members of a collaboration. It is written in very general terms, so that it can be adapted to serve any type of collaboration, for any aspect of any type of project. Fill in the blanks and add or remove sections as necessary. 
+
+More formal data-sharing and collaboration agreements can be found here **(links)**.
+
+# Parties involved
+
+<br />
+
+**Party member 1**:\  
+
+Institution:\  
+
+Position:\  
+
+<br />
+**Party member 2**:\  
+
+Institution:\  
+
+Position:\  
+
+
+<br />
+**Party member 3**:\  
+
+Institution:\  
+
+Position:\  
+
+
+*[add party members as necessary]*  
+
+
+# Objectives
+
+
+## General project description
+
+The goal of this research project is to *[test a hypothesis / develop a method / etc]*.  
+
+We hope to produce *[peer-reviewed publications / conference presentations / a methodological tool / etc]*.
+
+
+## Scope of the the collaboration
+
+This collaborative research agreement pertains to the following aspects of the afore-outlined project: *[describe]*
+
+
+This collaboration is intended to last from *[date]* to *[date]*. 
+
+If necessary, a reassessment, and a possible extension, of this collaborative agreement will be discussed no later than *[date]*.
+
+# Research Plan
+
+*[Within each applicable section, list each party and the contribution(s) for which they are responsible. Add parties as required.]*
+
+## Data collection
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+## Storage and management of biological samples and/or research equipment
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+## Data storage and management
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+## Data analysis
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+## Dissemination of results 
+(e.g. writing manuscripts for publication, conference presentations, communications with the general public, etc)
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+## Other
+
+*[add headings as necessary]* 
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+# General provisions
+
+## Communication
+
+All parties will meet together (online or in person, if possible) no less than once every *[number]* days. The date and time of the next meeting will be decided at each meeting.
+
+All parties will meet together (online or in person, if possible) at *[time]* CET every *[interval]*.
+
+All parties agree to respond to all correspondences of the other parties in a timely manner, generally within *[number]* days. In case a party will be unavailable for a known period, this should be communicated to all parties ahead of time. If immediate decisions are required to be made in this period, the other parties will bear the interest of the unavailable party in mind.
+
+
+## Publications & (co-)Authorship
+
+All parties will keep each other informed and will consult with one another with reasonable advance notice about their research plans and activities, including proposed grant applications, scheduled conference presentations, preparation of manuscripts for review and publication, and other forms of dissemination (e.g. blogs, interviews, popular magazines, etc.).
+
+All parties reserve the right to review and comment on all public disclosure by the other party. This should be done in a timely manner (usually within *[number]* days). 
+
+All parties agree to include as coauthors on a publication any of the other parties that have made a significant contribution towards producing the publication.	"Significant contribution" includes: *[specify what constitutes “significant contribution,” with respect to the following areas: funding or fundraising; research design; data collection or the sharing of data; data analysis, interpretation, and/or management; and writing & submission.]*
+
+If any party/ies has/have ‘first rights’ to publication on a particular topic/aspect of the collaboration, these should be listed here (or outlined in appendices):
+
+**P1**:\
+**P2**:\
+**P3**:\
+
+
+
+## Intellectual property
+
+In signing this agreement, the parties providing data (hereafter: "providers") certify that they possess the right to share this data with the parties who will use the data (hereafter: "users"). The providers also certify that they disclosed any co-owners of the data and previous agreements concerning co-authorship of the resulting publications with the users. The providers also take responsibility in the lawfulness of the data collection and ensure that at the time of data collection all legal permissions were obtained and will share this information with the users.
+
+Responsibility for the datas' quality and origin are with the providers and the users are given access to all meta-information necessary to pursue the project. The agreement to collaborate by sharing these data happens in good faith and responsibly following the best practice guidelines for research of the Max Planck Society **(link)**.
+
+Any data or software produced as an outcome of this collaboration will not be passed on to external third-parties by any member of the agreement without consent from other members.
+
+
+## Disputes
+
+Any disagreement or dispute related to the interpretation or implementation of this CRA will be resolved amicably and expeditiously by mutual consultation or negotiation between the parties.
+
+If the parties cannot resolve the dispute amicably, they will mutually agree to explore the use of alternative means of resolution, starting with mediation followed by arbitration, in case mediation is unsuccessful.
+
+## Amendments & termination
+
+Any amendments to the terms of this signed CRA should be discussed with all parties, signed by all parties, and attached as appendices to this original CRA. 
+
+Withdrawal of this agreement jeopardizing the joint efforts should only be considered in severe cases such as unlawful actions in relation to and as consequence of the collaboration, or in case of conflicts of interest, which were not apparent at the time of signature.
+
+If a party wishes to withdraw prematurely from this agreement, they must give *[number]* days notice and clearly communicate their intention to withdraw with all other parties. Any work that the withdrawing party has already completed within the collaboration stays with their collaborators and, if used, must be properly acknowledged/credited. 
+
+# Budget
+
+*[If applicable, insert a project budget that clearly outlines the financial contributions of each party.]*
+
+# List of Materials
+
+*[If applicable, include a list of all tangible property (equipment, materials, etc) that each party brings to the collaboration and that remains the full property of that party throughout the collaboration.]*
+
+
